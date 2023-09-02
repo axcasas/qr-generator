@@ -11,6 +11,5 @@ This simple Python script generates a QR code for a specified link using the qrc
 Python 3.x
 qrcode library
 To install the required dependencies, you can use pip:
-'''
+```bash
 pip install qrcode[pil]
-'''
